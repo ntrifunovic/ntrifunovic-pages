@@ -57,20 +57,17 @@ Profesor matematike je postavio Dragancetu sledeci zadatak. Na osnovu datog niza
 	 
 	int n;
 	long long ret;
-	int i;
-	 
-	int main()
-	{
+		 
+	int main() {
 	 scanf("%d", &n);
 	 
-	 for(i=0; i<n; i++)
+	 for(int i = 0; i < n; i++)
 	  scanf("%d", &a[i]);
 	 
 	 sort(a, a+n);
 	 reverse(a, a+n);
 	 
-	 for(i=0; i<n-2; i++)
-	 {
+	 for(int i = 0; i < n-2; i++) {
 	   ret += (((n - i-1)*(n - i-2)/2) % MOD)*((a[i] + 100 * MOD) % MOD);
 	   ret %= MOD;
 	 }
@@ -79,5 +76,6 @@ Profesor matematike je postavio Dragancetu sledeci zadatak. Na osnovu datog niza
 	 
 	 getchar();
 	 getchar();
+	 
 	 return 0;
 	}
