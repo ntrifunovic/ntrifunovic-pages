@@ -12,4 +12,4 @@ custom_CSS: [home.css]
 ##[**Moje raznorazne slike …**](/pictures)
 
 Vecina slika je napravljena koristeci **Canon T3i** (600d).
-Moguca je kupovina slika velike rezolucije direktno, bez napustanaj ovog sajta.
+Moguca je kupovina slika velike rezolucije direktno, bez napustanja ovog sajta.
