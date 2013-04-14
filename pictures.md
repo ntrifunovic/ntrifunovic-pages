@@ -15,7 +15,7 @@ custom_CSS: [home.css]
 
 #New York City, US
 
-**99¢**
+**Only 99¢**
 
 New York City Skyline
 
@@ -28,7 +28,7 @@ Lower Manhated, New York City ( Big Apple ), skyline on a cloudy day. View of Em
 
 #Punting, Cambridge, UK
 
-**99¢**
+**Only 99¢**
 
 Punting at Cambridge. 
 
