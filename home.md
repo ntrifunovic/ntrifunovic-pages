@@ -3,7 +3,7 @@ topic: Home
 custom_CSS: [home.css]
 
 
-##Moja slika (*klik na nju otvara moj **CV***): 
+##Moja slika ( *klik na nju otvara moj **CV*** ): 
   
 [![Nemanja Trifunovic ntrifunovic](http://farm9.staticflickr.com/8521/8578423345_4208ddbfc8_b.jpg)](http://rs.linkedin.com/in/ntrifunovic/)
 
