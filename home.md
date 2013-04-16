@@ -1,6 +1,6 @@
 title: DOBRO DOSLI :)
 topic: Home
-custom_CSS: [home.css]
+custom_CSS: [big_title.css]
 
 
 ##Moja slika ( *klik na nju ili klik [**ovde**][cv] otvara moj **CV*** ): 
