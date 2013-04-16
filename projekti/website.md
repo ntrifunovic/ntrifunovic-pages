@@ -437,6 +437,8 @@ Vise informacija mozete pronaci na: <http://jinja.pocoo.org>
 		(*pt).x = 0;
 		pt->y = 0;
 
+Sve stranice su dostupne i u markdown formatu na adresi: <https://github.com/ntrifunovic/ntrifunovic-pages>. **Ako mislite da mozete da unapredite neku od stranica na ovom sajtu mozete uraditi Fork & Pull ovog repositorija** kao sto je objasnjeno na [ovoj stranici](https://help.github.com/articles/using-pull-requests).
+
 #Free Hosting
 
 Ovaj website koristi free hosting i dostupan ja na dve adrese <http://ntrifunovic.github.com> i <http://ntrifunovic.herokuapp.com>.

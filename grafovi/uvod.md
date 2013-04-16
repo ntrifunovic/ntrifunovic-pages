@@ -1,5 +1,4 @@
 topic: Grafovi
-order: 1
 title: Uvod
 
 #Osnovni pojmovi
@@ -32,4 +31,4 @@ Za graf kazemo da je povezan ako i samo ako za svaka dva njegova cvora postoji p
 		
 		PList* veze[MAXN];
 		
-	*Napomena:* Moze se korisit i neka STD struktura za cuvanje liste suseda (`std::vector`, `std::queue`, `std::list`, ... ).
+	*Napomena:* Moze se korisit i neka STD struktura za cuvanje liste suseda (`std::vector`, `std::list`, ... ).
