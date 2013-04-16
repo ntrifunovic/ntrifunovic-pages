@@ -3,10 +3,10 @@ title: Uvod
 
 #Osnovni pojmovi
 
-Graf **G** je uredjeni skup **(V, E)**, gde je **V** skup cvorova, a **E** skup ivica. Svaka ivica predstavlja
-par cvorova **(x, y)** iz **V**.
+Graf `G` je uredjeni skup `(V, E)`, gde je `V` skup cvorova, a `E` skup ivica. Svaka ivica predstavlja
+par cvorova `(x, y)` iz `V`.
 
-Put od cvora **X** do nekog drugog cvora **Y** je niz ivica koji spaja ova dva cvora, u kome se svaka ivica iz grafa pojavljuje najvise jedanput.
+Put od cvora `X` do nekog drugog cvora `Y` je niz ivica koji spaja ova dva cvora, u kome se svaka ivica iz grafa pojavljuje najvise jedanput.
 
 Za graf kazemo da je povezan ako i samo ako za svaka dva njegova cvora postoji put koji ih spaja. Ako graf nije povezan onda se on moze razbiti na povezane komponente, disjunktne po cvorovima.
 
