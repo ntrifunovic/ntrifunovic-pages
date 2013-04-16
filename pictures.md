@@ -27,8 +27,6 @@ Buy images in **very high resolution** ( *when you click on image you will see a
 
 #New York City, US
 
-**Only 99¢**
-
 ##New York City Skyline
 
 Lower Manhated, New York City ( Big Apple ), skyline on a cloudy day. View of Empire State building and Chrysler building. 
@@ -65,8 +63,6 @@ West Side, Lower Manhattan, New York City.
 
 #Punting, Cambridge, UK
 
-**Only 99¢**
-
 Punting at Cambridge. 
 
 Landscape showing Cambridge river side and bridge.
@@ -75,7 +71,6 @@ Landscape showing Cambridge river side and bridge.
 
 [![Punting Cambridge UK buy](http://farm9.staticflickr.com/8380/8579497718_27c43b2970_h.jpg)][punting]
 **Click on the picture or [**here**][punting] to buy it :)**
-
 
 ---
 
