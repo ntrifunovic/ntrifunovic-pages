@@ -23,12 +23,16 @@ Lower Manhated, New York City ( Big Apple ), skyline on a cloudy day. View of Em
 [![US New York City NYC buy](http://farm9.staticflickr.com/8508/8578803716_a5d699202d_h.jpg)][nyc1]
 **Click on the picture or [**here**][nyc1] to buy it :)**
 
+---
+
 ##New York City Skyline
 
 [nyc2]: https://gumroad.com/l/manhattan 'Buy: New York City, US'
 
 [![US New York City NYC buy](http://farm9.staticflickr.com/8388/8577693221_557d7d5e93_h.jpg)][nyc2]
 **Click on the picture or [**here**][nyc2] to buy it :)**
+
+---
 
 ##Intersection of 10th Avenue and 18th Street
 West Side, Lower Manhattan, New York City. 
@@ -37,6 +41,8 @@ West Side, Lower Manhattan, New York City.
 
 [![US New York City NYC buy](http://farm9.staticflickr.com/8248/8578768304_145721a448_h.jpg)][nyc3]
 **Click on the picture or [**here**][nyc3] to buy it :)**
+
+---
 
 ##Intersection of 10th Avenue and 23th Street at sunset
 West Side, Lower Manhattan, New York City. 
