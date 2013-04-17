@@ -30,7 +30,7 @@ Isti zadatak se moze pojaviti u vise oblasti iz sledecih razloga:
 * [TPORTER]
 * [FLOOD]
 
-#Dinamciko programiranje
+#Dinamicko programiranje
 * [LGARDEN]
 * [NKMINERS]
 

@@ -13,6 +13,12 @@ Buy images in **very high resolution** ( *when you click on image you will see a
 
 ---
 
+[n3funovic_photo]: https://twitter.com/n3funovic_photo
+
+#Follow [<img src="https://twitter.com/images/resources/twitter-bird-dark-bgs.png" alt="Twitter logo" height="60" width="60" style="vertical-align: -35%" >  **@n3funovic_photo**][n3funovic_photo] for updates
+
+---
+
 #Free images:
 
 ##Shot from train, Romania
