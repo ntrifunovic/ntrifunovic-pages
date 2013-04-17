@@ -6,10 +6,12 @@ custom_CSS: [big_title.css]
 
 Buy images in **very high resolution** ( *when you click on image you will see avaible resolution in lower right corner* ).
 
-* #[New York City](/pictures/nyc/)
-* #[Cambridge, UK](/pictures/cambridge/)
-* #[Stock](/pictures/stock/)
-* #[Nature](/pictures/nature/)
+#**Collections:**
+
+* ##[New York City](/pictures/nyc/)
+* ##[Cambridge, UK](/pictures/cambridge/)
+* ##[Stock](/pictures/stock/)
+* ##[Nature](/pictures/nature/)
 
 ---
 
