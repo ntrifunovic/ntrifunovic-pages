@@ -1,6 +1,10 @@
 topic: Grafovi
 title: Uvod
 
+[TOC]
+
+---
+
 #Osnovni pojmovi
 
 Graf `G` je uredjeni skup `(V, E)`, gde je `V` skup cvorova, a `E` skup ivica. Svaka ivica predstavlja
@@ -32,3 +36,22 @@ Za graf kazemo da je povezan ako i samo ako za svaka dva njegova cvora postoji p
 		PList* veze[MAXN];
 		
 	*Napomena:* Moze se korisit i neka STD struktura za cuvanje liste suseda (`std::vector`, `std::list`, ... ).
+	
+#Vrste grafova
+
+##Usmereni grafovi
+
+Matrica povezanosti ne mora da bude simetricna, ako postoji  grana `(a, b)` onda ne mora da postoji grana `(b, a)`.
+
+##Ne usmereni grafovi
+
+Matrica povezanosti je simetricna, ako postoji  grana `(a, b)` onda postoji i grana `(b, a)`.
+
+###Drvo
+Drvo je neusmereni povezani graf bez ciklusa.
+
+Ako vaze dve od sledece tri osobine za neki graf onda za taj graf vazi i treca osobina:
+
+1. Graf od `N` cvorova ima `N-1` granu
+2. Graf je povezan
+3. Graf je drvo
