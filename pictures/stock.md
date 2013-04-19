@@ -58,7 +58,7 @@ Fried Corn, Peanut and Sunflower Seeds in glass container isolated on white back
 
 Yellow table lamp on white background. 
 
-[![appliance, black, cable, clamp, desk, electric, electrical, illuminate, isolated, lamp, light, lightning, lit, reading, study, switch, table, white, white background, yellow](http://farm9.staticflickr.com/8386/8579445336_93332c8047_h.jpg)][TableLamp]
+[![appliance, black, cable, clamp, desk, electric, electrical, illuminate, isolated, lamp, light, lightning, lit, reading, study, switch, table, white, white background, yellow](http://farm9.staticflickr.com/8386/8579445336_8b19bbcd06_h.jpg)][TableLamp]
 
 **Click on the picture or [**here**][TableLamp] to buy it :)**
 
