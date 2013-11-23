@@ -17,6 +17,10 @@ title: Uvod
 
 #Načini čuvanja grafa u memoriji računara
 
+U programskim jezicima koji se koriste na takmičenjima iz informatike graf ne postoji kao standardni tip podataka, pa ga zato na neki način treba predstaviti i čuvati u memoriji računara. 
+
+Ovde su data dva načina čuvanja grafa u memoriji računara:
+
 1. **Matrica povezanosti:** U matrici veličine `nxn` (gde je `n` broj čvorova grafa) polje `i`, `j` ima vrednost `1` ako postoji ivica koja povezuje čvorove `i` i `j`, ili `0` u slučaju da takva ivica ne postoji.
 
 		#define MAXN 100
@@ -29,12 +33,13 @@ title: Uvod
 
 		#define MAXN 100
 		
-		struct PList {
-		  int v;
+		// Lista indeksa čvorova
+		struct PList { 
+		  int v; // indeks čvora sa kojim je neki čvor povezan
 		  PList* sled;
 		};
 		
-		PList* veze[MAXN];
+		PList* veze[MAXN]; // Niz veza čiji su elementi liste indeksa čvorova
 		
 	*Napomena:* Može se korisit i neka STD struktura za čuvanje liste suseda (npr. `std::vector`, `std::list`, ... ).
 	
