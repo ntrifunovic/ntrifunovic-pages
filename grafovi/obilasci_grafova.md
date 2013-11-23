@@ -15,4 +15,4 @@ Prikaz obilaska grafa dobijenog BFS algoritmom:
 
 Prikaz obilaska grafa dobijenog DFS algoritmom:  
 
-![Prikaz rada BFS algoritma](/static/grafovi/Depth-first-tree.svg)
+![Prikaz rada DFS algoritma](/static/grafovi/Depth-first-tree.svg)

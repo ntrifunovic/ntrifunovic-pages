@@ -7,7 +7,7 @@ title: Uvod
 
 #Osnovni pojmovi
 
-**Definicija:** Graf `G` je uređeni skup `(V, E)`, gde je `V` skup cvorova, a `E` skup ivica. Svaka ivica predstavlja par cvorova `(x, y)` iz `V`.
+**Definicija:** Graf `G` je uređeni skup `(V, E)`, gde je `V` konačan neprazan skup čvorova, a `E` skup ivica (grana). Svaka ivica predstavlja par čvorova `(x, y)` iz `V`.
 
 **Definicija:** Put od čvora `X` do nekog drugog čvora `Y` je niz ivica koji spaja ova dva čvora, u kome se svaka ivica iz grafa pojavljuje najviše jedanput.
 
@@ -44,9 +44,13 @@ title: Uvod
 
 Matrica povezanosti ne mora da bude simetrična, tj. ako postoji  grana `(a, b)` onda ne mora da postoji grana `(b, a)`.
 
+![usmereni graf](/static/grafovi/Directed.svg)
+
 ##Ne usmereni grafovi
 
 Matrica povezanosti je simetrična, tj. ako postoji  grana `(a, b)` onda postoji i grana `(b, a)`.
+
+![ne usmereni graf](/static/grafovi/Undirected.svg)
 
 ###Drvo
 
@@ -57,3 +61,5 @@ Matrica povezanosti je simetrična, tj. ako postoji  grana `(a, b)` onda postoji
 1. Graf od `N` čvorova ima `N-1` granu
 2. Graf je povezan
 3. Graf je drvo
+
+![drvo graf](/static/grafovi/Tree_graph.svg)
