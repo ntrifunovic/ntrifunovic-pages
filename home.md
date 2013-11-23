@@ -1,5 +1,5 @@
-title: DOBRO DOSLI :)
 topic: Home
+title: DOBRO DOŠLI :)
 custom_CSS: [big_title.css]
 
 
@@ -11,5 +11,5 @@ custom_CSS: [big_title.css]
 
 ##[**Moje raznorazne slike …**](/pictures)
 
-Vecina slika je napravljena koristeci **Canon T3i** (600d).
-Moguca je kupovina slika velike rezolucije direktno, bez napustanja ovog sajta.
+Većina slika je napravljena koristeći **Canon T3i** (600d).
+Moguća je kupovina slika velike rezolucije direktno, bez napustanja ovog sajta.
