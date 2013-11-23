@@ -27,8 +27,12 @@ Prikaz obilaska grafa dobijenog BFS algoritmom:
 
 #Pretraga u dubinu (DFS eng. Depth first search)
 
-1. DFS
-2. Ako trenutni čvor ima neposećenih 
+Rekurzivni DFS algoritam:
+
+	DFS(x):
+		for y in susedi od x
+			if y nije posecen
+				DFS(y)
 
 Prikaz obilaska grafa dobijenog DFS algoritmom:  
 
