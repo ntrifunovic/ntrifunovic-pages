@@ -25,7 +25,7 @@ title: Dinamičko programiranje
 
 		|a|, |b| < 5000
       
-8. Dat je niz prirodnih brojeva dužine `n`. Nači najduži rastuči podniz. (ne nužno uzastopnih elemenata)
+8. Dat je niz prirodnih brojeva dužine `n`. Naći najduži rastuči podniz. (ne nužno uzastopnih elemenata)
 
 		n < 5000
 
