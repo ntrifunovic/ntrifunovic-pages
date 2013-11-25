@@ -7,7 +7,7 @@ title: Dinamičko programiranje
 
 2. Dat je niz celih brojeva. Naći podniz uzastopnih brojeva tako da je njihova suma maksimalna.
 
-3. Perica je na poklon dobio bele i crne kuglice. On želi da ih složi u niz tako da u nizu (gledajući s leva na desno) ako se nalazi bela kuglica onda iza nje mora obavezno ići crna, a iza crne može ići i bela i crna kuglica. Koliko postoji različitih nizova dužine `n`?
+3. Perica je na poklon dobio bele i crne kuglice. On želi da ih složi u niz tako da u nizu (gledajući sa leva na desno) ako se nalazi bela kuglica onda iza nje mora obavezno ići crna, a iza crne može ići i bela i crna kuglica. Koliko postoji različitih nizova dužine `n`?
 
 4. Data je matrica a dimenzije `n * m` popunjena celim brojevima. Sa svakog polja u matrici dozvoljeno je preći samo na polje ispod ili na polje desno od tog polja (ukoliko postoje). Potrebno je izabrati put od gornjeg levog polja (polje sa koordinatama  `[1; 1]`), do donjeg desnog polja (polja sa koordinatama `[n;m]`), tako da zbir brojeva u poljima preko kojih se ide, bude maksimalan.
 
