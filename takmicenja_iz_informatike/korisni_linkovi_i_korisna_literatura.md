@@ -1,4 +1,4 @@
-topic: Takmicenja iz informatike
+topic: Takmičenja iz informatike
 title: Korisni linkovi & Korisna literatura
 
 [TOC]
@@ -7,17 +7,17 @@ title: Korisni linkovi & Korisna literatura
 
 #Korisni linkovi
 
-**Zvanicni sajt takmicenja srednjih skola**
+**Zvanični sajt takmičenja srednjih škola**
 > <http://takprog.dms.rs>
 
-**Drustvo matematicara srbije - Takmicenja iz informatike**
+**Društvo matematičara srbije - Takmičenja iz informatike**
 
 > <http://www.dms.org.rs/index.php?action=competitions_informatics>
 
 **USACO Training program**
 > <http://train.usaco.org/usacogate>
 
-USACO je po meni najbolji nacin za pripremu takmicenja iz informatike.
+USACO je po meni najbolji način za pripremu takmičenja iz informatike.
 
 ##Online judges
 
@@ -49,7 +49,7 @@ USACO je po meni najbolji nacin za pripremu takmicenja iz informatike.
 
 	> <http://projecteuler.net>
 
-*[Z-trening]: Sadrzi zadatke sa takmicenja od prethodnih godina
+*[Z-trening]: Sadrži zadatke sa takmičenja od prethodnih godina
 *[Project Euler]: Za ljubitelje matematike
 
 ##Online C++ references
@@ -72,13 +72,13 @@ USACO je po meni najbolji nacin za pripremu takmicenja iz informatike.
 
 **Algoritmi u programskom jeziku C**  
 Autor: *Dragan Urosevic*  
-Izdavac: *Mikro knjiga*
+Izdavač: *Mikro knjiga*
 
 **Algoritmi**  
 Autor: *Miodrag Zivkovic*  
-Izdavac: *Matematicki fakultet, Beograd*
+Izdavač: *Matematicki fakultet, Beograd*
 
 **Introduction to Algorithms**  
 Autori: *Charles E. Leiserson, Clifford Stein, Thomas H. Cormen, Ronald Rivest*  
-Izdavac: *The MIT Press*
+Izdavač: *The MIT Press*
 
