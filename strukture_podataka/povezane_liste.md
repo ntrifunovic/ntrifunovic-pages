@@ -9,6 +9,10 @@ title: Povezane Liste
 
 Povezana lista je linearna struktura podataka, tj. podaci su u nekom linearnom poretku.
 
+**Grafička ilustracija povezane liste:**
+
+![ilustracija povezena lista](/static/strukture_podataka/Singly-linked-list.svg)
+
 #Vrste povezanih lista
 
 * jednostruka ulancana lista
